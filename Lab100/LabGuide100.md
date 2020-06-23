@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This lab walks through the steps to deploy an instance of Essbase 19c with all its required settings. We will then setup an IDCS confedential application to monitor the Essbase 19c instance. We will also learn how to access the backend of Essbase 19c instance using SSH keys, and the frontend using IDCS login.
+This lab walks you through the steps to deploy an instance of Essbase 19c with all its required settings. We will then setup an IDCS confedential application to monitor the Essbase 19c instance. We will also learn how to access the backend of Essbase 19c instance using SSH keys, and the frontend using IDCS login.
 
 ## Objectives
 
